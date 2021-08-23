@@ -101,10 +101,10 @@
                     <p>Here are the projects i have worked for.</p>
                 </div><!--//intro-->
                 <div class="item">
-                    <span class="project-title"><a></a>EduKids-Now</a></span> - <span class="project-tagline">A webplataform for kids education. </span>
+                    <span class="project-title"><a></a>EduKids-Now</a></span> - <span class="project-tagline">A webplataform for kids education during COVID19 Pandemic, making the learn process fun. </span>
                 </div><!--//item-->
                 <div class="item">
-                    <span class="project-title"><a></a>CUCSH-CTA</a></span> - <span class="project-tagline">A thicket system aimed for CTA. </span>
+                    <span class="project-title"><a></a>CUCSH-CTA</a></span> - <span class="project-tagline">A thicket system aimed for CTA, its objective is to give tech support. </span>
                 </div><!--//item-->
             </section><!--//section-->
             
